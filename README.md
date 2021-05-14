@@ -1,16 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hello 👋🏻</h3>
+<p align="center">
+I'm Suraj Waragade 
+</p>
 
-<!--
-**swaragade/swaragade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- I currently work at [Infosys Limited](https://www.infosys.com/) as a Senior Software Engineer
+- Ask me about Openshift, Kubernetes, Docker, AWS, SpringBoot, CallForCode.
+- Fiddling around competitive programming for a while now.
+- Reach me at :
+    - [Linkedin](https://www.linkedin.com/in/surajwaragade/)
+    - [Mail](mailto:mail@karngyan.com)
+    - [CodeChef](https://www.codechef.com/users/swaragade)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
