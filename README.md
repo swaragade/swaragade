@@ -10,6 +10,6 @@ I'm Suraj Waragade
 - Fiddling around competitive programming for a while now.
 - Reach me at :
     - [Linkedin](https://www.linkedin.com/in/surajwaragade/)
-    - [Mail](mailto:mail@karngyan.com)
+    - [Mail](mailto:suraj_waragade@live.com)
     - [CodeChef](https://www.codechef.com/users/swaragade)
 
