@@ -1,4 +1,4 @@
-<h3 align="center">Hello 👋🏻</h3>
+<h3 align="center">Hello 🙏</h3>
 <p align="center">
 I'm Suraj Waragade 
 </p>
