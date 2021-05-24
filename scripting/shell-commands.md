@@ -18,6 +18,14 @@ printSuccess()
 ```
 
 ```bash
+# useful manual debug function
+debug(){
+    echo "Executing -> $@";
+    $@
+}
+```
+
+```bash
 # Read and check user arguments
 while getopts ":b:t:f:m:e" option
 do
@@ -42,6 +50,7 @@ $$ #get pid of last command
 >> # append the existing file
 $# # no. of input parameters
 $* # get all input arguments
+$@ # get all input arguments
 
 ```
 
