@@ -26,7 +26,7 @@ debug(){
 ```
 
 ```bash
-# Read and check user arguments
+# Standard read user input arguments
 while getopts ":b:t:f:m:e" option
 do
    case ${option} in
