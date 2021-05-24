@@ -5,7 +5,7 @@ description: Random shell commands library
 # Shell commands
 
 ```bash
-#rename with date as extention
+# rename with date as extention
 mv ${CompareLogs} ${CompareLogs}.$(date -u '+%y%m%d-%H:%M') 
 ```
 
