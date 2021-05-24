@@ -32,5 +32,16 @@ do
 done
 ```
 
+```bash
+#Exit status 		
+# 0-255  
+# where 0 is success
+$? #Last command exit status
+$$ #get pid of last command
+> # append to a new file
+>> # append the existing file
+
+```
+
 
 
