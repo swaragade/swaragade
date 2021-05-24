@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Random Notes](README.md)
+* [Scribble Pad](README.md)
 
 ## Jenkins
 
