@@ -8,8 +8,8 @@
 
 ## Shell
 
-* [Shell commands](shell/shell-commands/README.md)
-  * [XML diff](shell/shell-commands/xml-diff.md)
+* [XML diff](shell/xml-diff.md)
+* [Shell commands](shell/shell-commands.md)
 
 ## Java
 
