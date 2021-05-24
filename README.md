@@ -1,5 +1,5 @@
 ---
-description: 'Intended for internal use only :P'
+description: "Intended for internal use only \U0001F60B"
 ---
 
 # Scribble Pad
