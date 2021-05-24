@@ -40,6 +40,8 @@ $? #Last command exit status
 $$ #get pid of last command
 > # append to a new file
 >> # append the existing file
+$# # no. of input parameters
+$* # get all input arguments
 
 ```
 
