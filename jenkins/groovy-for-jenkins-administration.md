@@ -2,7 +2,7 @@
 description: Consolidated groovy functions for Jenkins administration
 ---
 
-# Groovy for Jenkins administration
+# Groovy for Administration
 
 ```groovy
 //runAllJobs(); // to run all the jobs available

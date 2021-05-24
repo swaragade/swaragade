@@ -4,7 +4,7 @@
 
 ## Jenkins
 
-* [Groovy for Jenkins administration](jenkins/groovy-for-jenkins-administration.md)
+* [Groovy for Administration](jenkins/groovy-for-jenkins-administration.md)
 
 ## Scripting
 
