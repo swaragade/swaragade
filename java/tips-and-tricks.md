@@ -9,3 +9,5 @@ description: Random java tricks n tips
 javap -verbose ${classfile} | grep "major" | sed 's/^ *//g' | cut -d':' -f2;
 ```
 
+
+
