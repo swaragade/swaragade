@@ -6,10 +6,10 @@
 
 * [Groovy for Jenkins administration](jenkins/groovy-for-jenkins-administration.md)
 
-## Shell
+## Scripting
 
-* [XML diff](shell/xml-diff.md)
-* [Shell commands](shell/shell-commands.md)
+* [XML diff \(python\)](scripting/xml-diff.md)
+* [Shell commands](scripting/shell-commands.md)
 
 ## Java
 
