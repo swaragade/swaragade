@@ -41,7 +41,7 @@ done
 ```
 
 ```bash
-#Exit status 		
+# Exit status 		
 # 0-255  
 # where 0 is success
 $? #Last command exit status
