@@ -18,12 +18,13 @@ description: Consolidated groovy functions for Jenkins administration
 //showAll()
 //change()
 //=([0-9][0-9]\.[0-9][0-9]\.[0-9][0-9][0-9])$
-//disableJobs();
-//enableJobs();
+//disableJobs(".*-SNAPSHOT");
+//enableJobs(".*-SNAPSHOT");
+//disableJobs(".*-BASELINE");
+//enableJobs(".*-BASELINE");
 
-def disableJobs(){
-  
-	def projects = Jenkins.instance.items.findAll{job -> job.displayName.matches(".*-SNAPSHOT")};
+def disableJobs(String type){
+	def projects = Jenkins.instance.items.findAll{job -> job.displayName.matches(type)};
 	for (p in  projects) {
 		p.disable();
 		println(p.name +" : [DISABLED]")
@@ -31,14 +32,15 @@ def disableJobs(){
 	println("[DISABLED] total="+projects.size())
 }
 
-def enableJobs(){
-	def projects = Jenkins.instance.items.findAll{job -> job.displayName.matches(".*-SNAPSHOT")} ;
+def enableJobs(String type){
+	def projects = Jenkins.instance.items.findAll{job -> job.displayName.matches(type)} ;
 	for (p in  projects) {
 		p.enable();
 		println(p.name +" : [ENABLED]")
 	}
 	println("[ENABLED] total="+projects.size())
 }
+
 def disableCrumb(){
 	Jenkins.instance.setCrumbIssuer(null);
 // curl --silent --user <username>:<pass> http://tele523:12131/crumbIssuer/api/xml?xpath=concat\(//crumbRequestField,%22":"%22,//crumb\)
