@@ -6,6 +6,10 @@ description: Some apparent diffs in above two
 
 Replace **class** with **className**
 
+```javascript
+<div className="table"></div> // correct
+```
+
 Refer to style as json
 
 {% tabs %}
