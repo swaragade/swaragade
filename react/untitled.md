@@ -16,6 +16,8 @@ Refer to style as json
 {% tab title="Direct Way" %}
 ```javascript
 <h1 style={{ border: '1px solid'}}></h1>
+// first curly brace is to indicate that this is a javascript
+// second curly brace is itself a JSON object
 ```
 {% endtab %}
 
@@ -40,6 +42,7 @@ JSX cant read an object directly
 //Correct
 const text="Show this text";
 <lable>{text}</lable>
+
 // Wrong
 const obj={ text: "Show this text" };
 <lable>{obj}</lable>
