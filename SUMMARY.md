@@ -8,6 +8,7 @@
 
 ## Scripting
 
+* [Git Push Automation](scripting/git-push-automation.md)
 * [XML diff \(python\)](scripting/xml-diff.md)
 * [Shell commands](scripting/shell-commands.md)
 
