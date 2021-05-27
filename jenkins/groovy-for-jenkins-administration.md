@@ -4,6 +4,10 @@ description: Consolidated groovy functions for Jenkins administration
 
 # Groovy for Administration
 
+If you have admin privileges, then navigate to _&lt;Jenkins\_URL&gt;**/script**_
+
+Paste this script there, uncomment the method you would like to run and click on **Run**
+
 ```groovy
 //runAllJobs(); // to run all the jobs available
 //clearQueue(); // clear all the queue items
