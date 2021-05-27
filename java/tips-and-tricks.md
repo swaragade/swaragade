@@ -2,7 +2,7 @@
 description: Random java tricks n tips
 ---
 
-# Tips and tricks
+# Hacks
 
 ```bash
 #get major version out of a classfile

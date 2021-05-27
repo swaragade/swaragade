@@ -14,7 +14,7 @@
 
 ## Java
 
-* [Tips and tricks](java/tips-and-tricks.md)
+* [Hacks](java/tips-and-tricks.md)
 
 ## React
 
