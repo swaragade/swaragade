@@ -39,11 +39,11 @@ public class Washing {
 		return 0;
 	}
 
-	public double washingAmount(Car bike, boolean isInternal, boolean isExternal) {
+	public double washingAmount(Car car, boolean isInternal, boolean isExternal) {
 		return 0;
 	}
 
-	public double washingAmount(Truck bike, boolean isInternal, boolean isExternal) {
+	public double washingAmount(Truck truck, boolean isInternal, boolean isExternal) {
 		return 0;
 	}
 
