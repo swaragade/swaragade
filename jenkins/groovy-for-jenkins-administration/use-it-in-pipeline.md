@@ -4,7 +4,7 @@ description: >-
   Works like a shared kind of library.
 ---
 
-# Use it in pipeline
+# Importing script in pipeline
 
 ```groovy
 //importing script

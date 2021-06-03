@@ -5,7 +5,7 @@
 ## Jenkins
 
 * [Groovy for Administration](jenkins/groovy-for-jenkins-administration/README.md)
-  * [Use it in pipeline](jenkins/groovy-for-jenkins-administration/use-it-in-pipeline.md)
+  * [Importing script in pipeline](jenkins/groovy-for-jenkins-administration/use-it-in-pipeline.md)
 
 ## Scripting
 
