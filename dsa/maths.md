@@ -78,3 +78,27 @@ n = natural number
 13 = 6(2)+1
 ```
 
+#### LCM and HCF
+
+LCM : Least common multiple  
+multiples of  4 =  4,8,12,16,20,24..  
+multiples of 6 = 6,12,18,24  
+common multiples are 12,24.. etc  
+least common multiples will be **12**
+
+HCM: Highest common factor  
+12 : 1,2,3,4,6,12  
+16 : 1,2,4,8,16  
+common factors are : 1,2,4  
+highest common factor is **4**
+
+#### Permutations and Combinations
+
+$$
+p = n!/(n-r)!
+$$
+
+$$
+c = n!/(r!(n-r)!)
+$$
+
