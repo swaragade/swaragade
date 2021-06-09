@@ -63,3 +63,18 @@ is the most repeating term
 is the physical center of the series when sorted.  
 if there are 2 medians, then we take mean of those 2 numbers
 
+### Prime
+
+is a number which is only divisible by 1 or itself  
+ex 2,3,5,7 \(1 is not a prime\)
+
+Every prime number can be represented by 6n+1 OR 6n-1 \(except 2 and 3\)
+
+```java
+n = natural number
+5 = 6(1)-1
+7 = 6(1)+1
+11 = 6(2)-1
+13 = 6(2)+1
+```
+
