@@ -23,3 +23,30 @@ sum = (n/2)*( 2a + (n-1)*d)
 
 ```
 
+#### Geometric Progression
+
+```java
+a = first term
+r = ratio
+n = ar^(n-1) // nth term
+sum = a(1-r^n) / (1-r) // sum of series
+```
+
+$$
+n = ar^n/r
+$$
+
+$$
+sum of series = a(1-r^n)/(1-r)
+$$
+
+#### Quadratic Equation
+
+$$
+ax^2 + bx +c = 0
+$$
+
+$$
+D =  b^2 - 4ac
+$$
+
