@@ -50,3 +50,15 @@ $$
 D =  b^2 - 4ac
 $$
 
+#### Mean
+
+is average of all the terms
+
+#### Mode
+
+is the most repeating term
+
+#### Median
+
+is the physical center of the series
+
