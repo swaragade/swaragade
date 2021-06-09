@@ -52,7 +52,7 @@ $$
 
 #### Mean
 
-is average of all the terms
+is average of all the terms i.e a+b+c/3
 
 #### Mode
 
@@ -60,5 +60,6 @@ is the most repeating term
 
 #### Median
 
-is the physical center of the series
+is the physical center of the series when sorted.  
+if there are 2 medians, then we take mean of those 2 numbers
 
