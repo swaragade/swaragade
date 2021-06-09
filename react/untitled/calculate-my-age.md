@@ -6,6 +6,10 @@ description: >-
 
 # Calculate my age
 
+Find the app at : [https://github.com/swaragade/age-calculator](https://github.com/swaragade/age-calculator)
+
+Below is part of that app which actually calculates the age
+
 ```javascript
 var daysArray = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 var dob = new Date(1994, 01, 14);
