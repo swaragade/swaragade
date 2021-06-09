@@ -30,4 +30,5 @@
 ## DSA
 
 * [Big O](dsa/big-o.md)
+* [Maths](dsa/maths.md)
 
