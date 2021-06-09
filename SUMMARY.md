@@ -20,8 +20,8 @@
 
 ## React
 
-* [JSX Vs HTML](react/untitled/README.md)
-  * [Calculate my age](react/untitled/calculate-my-age.md)
+* [JSX Vs HTML](react/untitled.md)
+* [Calculate my age](react/calculate-my-age.md)
 
 ## Containers
 
