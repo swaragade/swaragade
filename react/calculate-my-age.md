@@ -1,7 +1,5 @@
 ---
-description: >-
-  I always seem to forget I old I am, and end up counting my age on my fingers.
-  So made this react app to calculate your age.
+description: "I always seem to forget I old I am \U0001F60B and end up counting my age on my fingers. So made this react app to calculate your age."
 ---
 
 # Calculate my age
