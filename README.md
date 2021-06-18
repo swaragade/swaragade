@@ -12,6 +12,8 @@ I could make use of Medium, dev.to but again, this ain't a blog. This is a place
 #### About me
 
 I am a Software Engineer working majorly on modern web applications. I worked on multiple languages, frameworks, clouds, tools; so you will probably find a lot of random stuff here.   
-With that said, my go to language has always been Java. I end up doing most of my stuff in Java.   
-For scripting, I use shell for the most part, Python once a while.
+With that said, my go to language has always been Java. I end up doing most of my stuff in `Java`.   
+For scripting, I use `shell` for the most part, `Python` once a while.
+
+
 
