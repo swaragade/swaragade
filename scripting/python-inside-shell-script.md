@@ -6,14 +6,16 @@ description: >-
 
 # Python inside shell script
 
-```bash
+```python
+#!/bin/ksh
+
 #shell function which returns a py file
 get_qgid() {
   cat <<EOF
 import json, sys
 #sys.stdin provides the cmd input
 data = json.load(sys.stdin)['qualitygates']
-qgName="${profile}"
+qgName="sonar_way"
 for gates in data:
     if(qgName == gates['name']):
         print(gates['id'])
