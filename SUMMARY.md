@@ -13,6 +13,7 @@
 * [Shell commands](scripting/shell-commands.md)
 * [XML diff \(python\)](scripting/xml-diff.md)
 * [Git Push Automation](scripting/git-push-automation.md)
+* [Python inside shell script](scripting/python-inside-shell-script.md)
 
 ## Java
 
