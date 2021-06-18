@@ -7,7 +7,7 @@ description: >-
 # Python inside shell script
 
 ```bash
-#shell function which returns a py string
+#shell function which returns a py file
 get_qgid() {
   cat <<EOF
 import json, sys
