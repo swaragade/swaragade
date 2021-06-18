@@ -11,6 +11,7 @@ description: >-
 get_qgid() {
   cat <<EOF
 import json, sys
+#sys.stdin provides the cmd input
 data = json.load(sys.stdin)['qualitygates']
 qgName="${profile}"
 for gates in data:
