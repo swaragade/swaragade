@@ -7,7 +7,7 @@ This is my attempt of re-collecting all the scattered information while trying t
 This is not a blog/tutorial/guide of any kind, but feel free to use anything from here.
 
 Well, **I could have made this thing private, but this is my way of sharing to the community**  
-I could make use of Medium, dev.to but again, this ain't a blog. This is a place where I dont care anymore about styling and structuring and visits on my page.
+I could make use of Medium, dev.to but again, this ain't a blog. This is a place where I dont care anymore about styling and structuring and visits on my page. \(thats where the name **`ScribblePad`** comes from 😋\)
 
 #### About me
 
