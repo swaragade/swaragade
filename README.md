@@ -13,4 +13,5 @@ I'm Suraj Waragade
     - [Linkedin](https://www.linkedin.com/in/surajwaragade/)
     - [Mail](mailto:suraj_waragade@live.com)
     - [CodeChef](https://www.codechef.com/users/swaragade)
+    - [GitBook Notes](https://swaragade.gitbook.io/)
 
