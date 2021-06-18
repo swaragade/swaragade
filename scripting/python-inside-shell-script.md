@@ -21,7 +21,7 @@ for gates in data:
         print(gates['id'])
 EOF
 }
-#passing output of curl command to py-shell-function
+#piping the curl command output to py-shell-function
 gateId=$(curl -s -X POST -u admin:admin ${SQROOT}/api/qualitygates/list | python -c "$( get_qgid "$1" )")
 ```
 
