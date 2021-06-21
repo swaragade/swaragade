@@ -18,6 +18,7 @@
 ## Java
 
 * [Hacks](java/tips-and-tricks.md)
+* [VIM](java/vim.md)
 
 ## React
 
