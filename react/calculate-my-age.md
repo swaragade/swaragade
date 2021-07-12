@@ -1,12 +1,10 @@
 ---
-description: "I always seem to forget I old I am \U0001F60B and end up counting my age on my fingers. So made this react app to calculate your age."
+description: '[INCOMPLETE]'
 ---
 
 # Calculate my age
 
 Find the app at : [https://github.com/swaragade/age-calculator](https://github.com/swaragade/age-calculator)
-
-Below is part of that app which actually calculates the age
 
 ```javascript
 var daysArray = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
