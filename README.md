@@ -6,8 +6,8 @@ Hello 🙏
 
 ## About me
 
-* I currently work at [Infosys Limited](https://www.infosys.com/) as a Senior Software Engineer
-* Ask me about Openshift, Kubernetes, Docker, AWS, SpringBoot, CallForCode.
+* I currently work at [Amdocs India](https://www.amdocs.com/) as a Software Developer
+* Ask me about DevOps, Openshift, Kubernetes, Docker, AWS, SpringBoot, CallForCode.
 * Fiddling around competitive programming for a while now.
 * Reach me at :
   * [Website](https://swaragade.github.io/)
