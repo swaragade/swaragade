@@ -42,7 +42,7 @@ export default function Projects() {
   }
   if (
     !(typeof repo === "string" || repo instanceof String) &&
-    openSource.display
+    openSource.displayProjects
   ) {
     return (
       <Suspense fallback={renderLoader()}>

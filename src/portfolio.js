@@ -75,11 +75,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Groovy",
-      fontAwesomeClassname: "fas fa-g"
+      fontAwesomeClassname: "fas fa-gem"
     },
     {
       skillName: "Python",
-      fontAwesomeClassname: "fas fa-python"
+      fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "ReactJS",
@@ -170,7 +170,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Amdocs",
-      companylogo: require("./assets/images/amdocsLogo.png"),
+      companylogo: require("./assets/images/amdocsLogo.jpg"),
       date: "July 2021 – Present",
       desc:
         "A Software Developer, building CICD solutions for flagship MS360-SDK",
@@ -207,7 +207,8 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
+  displayProjects: false
 };
 
 // Some big projects you have worked on
