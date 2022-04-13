@@ -12,10 +12,10 @@ const greeting = {
   username: "Suraj Waragade",
   title: "I'm Suraj",
   subTitle: emoji(
-    "A passionate Software Developer 🚀 having experience of building complex Web applications with Springboot / ReactJS and some other cool cloud technologies"
+    "A passionate Software Developer 🚀 having extensive experience in designing and developing CICD, building complex Web applications with Springboot and some other cool cloud technologies"
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1E9nJ2Lu3ZRUVsXBmCPNNONciGBKRIbZi/view?usp=sharing",
+    "https://drive.google.com/file/d/1TWErYMkP-qyKN6IN3nFPkz8wV2PmMgRy/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -41,9 +41,9 @@ const skillsSection = {
   subTitle: "A MECHANICAL ENGINEER TURNED SOFTWARE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK OUT THERE",
   skills: [
     emoji(
-      "⚡ Develop complex web application backends"
+      "⚡ Design and Develop complex CICD solutions"
     ),
-    emoji("⚡ Currently getting my hands dirty with ReactJS and Progressive Web Applications ( PWA )"),
+    emoji("⚡ Currently getting my hands dirty with ReactJS and ML"),
     emoji(
       "⚡ Hitting my head over most of the cloud providers. AWS, GCP, IBM to name a few"
     )
@@ -72,6 +72,14 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Shell",
       fontAwesomeClassname: "fas fa-terminal"
+    },
+    {
+      skillName: "Groovy",
+      fontAwesomeClassname: "fas fa-g"
+    },
+    {
+      skillName: "Python",
+      fontAwesomeClassname: "fas fa-python"
     },
     {
       skillName: "ReactJS",
@@ -127,6 +135,10 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
+      Stack: "Jenkins Shared Libraries",
+      progressPercentage: "90%"
+    },
+    {
       Stack: "Springboot Backend",
       progressPercentage: "90%"
     },
@@ -146,7 +158,6 @@ const techStack = {
       Stack: "Frontend",
       progressPercentage: "60%"
     }
-
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -157,15 +168,27 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Developer",
+      company: "Amdocs",
+      companylogo: require("./assets/images/amdocsLogo.png"),
+      date: "July 2021 – Present",
+      desc:
+        "A Software Developer, building CICD solutions for flagship MS360-SDK",
+      descBullets: [
+        "Part of MS360-SDK team which is Amdocs R&D wing",
+        "Responsible for designing and developing solutions for complete CICD"
+      ]
+    },
+    {
       role: "Senior Software Engineer",
       company: "Infosys",
       companylogo: require("./assets/images/infosysLogo.png"),
-      date: "May 2018 – Present",
+      date: "May 2018 – June 2021",
       desc:
         "A DevOps professional working for Technical Release Management",
       descBullets: [
         "Part of 3 member CoE",
-        "Responsible for delivering automated solution for complete CICD"
+        "Responsible for developing automated solution for complete CICD"
       ]
     },
     {
