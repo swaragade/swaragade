@@ -1,6 +1,0 @@
----
-description: vim shortcuts
----
-
-# VIM
-
